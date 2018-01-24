@@ -1,0 +1,11 @@
+c:\users\owner\source\repos\Lab2-ConditionalStatements\Lab2-ConditionalStatements\obj\Debug\netcoreapp2.0\Lab2-ConditionalStatements.csprojResolveAssemblyReference.cache
+c:\users\owner\source\repos\Lab2-ConditionalStatements\Lab2-ConditionalStatements\obj\Debug\netcoreapp2.0\Lab2-ConditionalStatements.csproj.CoreCompileInputs.cache
+c:\users\owner\source\repos\Lab2-ConditionalStatements\Lab2-ConditionalStatements\obj\Debug\netcoreapp2.0\Lab2-ConditionalStatements.AssemblyInfoInputs.cache
+c:\users\owner\source\repos\Lab2-ConditionalStatements\Lab2-ConditionalStatements\obj\Debug\netcoreapp2.0\Lab2-ConditionalStatements.AssemblyInfo.cs
+c:\users\owner\source\repos\Lab2-ConditionalStatements\Lab2-ConditionalStatements\bin\Debug\netcoreapp2.0\Lab2-ConditionalStatements.deps.json
+c:\users\owner\source\repos\Lab2-ConditionalStatements\Lab2-ConditionalStatements\bin\Debug\netcoreapp2.0\Lab2-ConditionalStatements.runtimeconfig.json
+c:\users\owner\source\repos\Lab2-ConditionalStatements\Lab2-ConditionalStatements\bin\Debug\netcoreapp2.0\Lab2-ConditionalStatements.runtimeconfig.dev.json
+c:\users\owner\source\repos\Lab2-ConditionalStatements\Lab2-ConditionalStatements\bin\Debug\netcoreapp2.0\Lab2-ConditionalStatements.dll
+c:\users\owner\source\repos\Lab2-ConditionalStatements\Lab2-ConditionalStatements\bin\Debug\netcoreapp2.0\Lab2-ConditionalStatements.pdb
+c:\users\owner\source\repos\Lab2-ConditionalStatements\Lab2-ConditionalStatements\obj\Debug\netcoreapp2.0\Lab2-ConditionalStatements.dll
+c:\users\owner\source\repos\Lab2-ConditionalStatements\Lab2-ConditionalStatements\obj\Debug\netcoreapp2.0\Lab2-ConditionalStatements.pdb
