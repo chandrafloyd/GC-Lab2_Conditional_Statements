@@ -6,61 +6,7 @@ namespace Lab2_ConditionalStatements
     {
         static void Main(string[] args)
         {
-            //// Exercise 1) Print numbers bet 1 and 10 inclusive
-
-            //for (int i = 1; i <= 10; i++)
-            //{
-            //    Console.WriteLine(i);
-            //}
-
-            //Console.ReadLine();
-
-            //// 2) Print numbrs bet 1 and some user input
-
-            //int Max = int.Parse(Console.ReadLine());
-            //for (int i = 1; i <= Max; i++)
-            //{
-            //    Console.WriteLine(i);
-            //}
-
-            //Console.ReadLine();
-
-
-            //// 3) Print even numbers between 1 and 200 using a for loop
-            //for (int i = 1; i <= 200; i++)
-            //{
-            //    if (i % 2 == 0) //even.  % modulus checks for the remainder. if no remainder, the number is even
-            //        Console.WriteLine(i);
-            //}
-
-            //Console.ReadLine();
-
-
-
-            //// 4) Print numbers between 100 and 1 
-
-            //for (int i = 1; i <= 200; i++)
-            //{
-            //    if (i % 2 == 0) //even.  % modulus checks for the remainder. if no remainder, the number is even
-            //        Console.WriteLine(i);
-            //}
-
-            //Console.ReadLine();
-
-
-
-            //// 5) print even numbers bet 1 and 200 
-
-            //for (int i = 1; i <= 200; i++)
-            //{
-            //    if (i % 2 != 0) //odd.  
-            //        continue;
-            //    Console.WriteLine(i);
-            //}
-            ////Console.ReadLine();}
-
-
-
+           
             //WELCOME
                 Console.WriteLine("Hi! What's your name?");
                 string name = Console.ReadLine();
